@@ -1,0 +1,3 @@
+> increasedFactorForSubwayLineChange = 4
+
+The factor is taken into account when computing the shortest path between stations using the subway network. It is used to take into account the additional time needed to change line (including waiting for new train, reaching correct platform), in order to avoid permanent subway line changing. Sometimes, it is more efficient to take a few additional stations than switching subway often. 
